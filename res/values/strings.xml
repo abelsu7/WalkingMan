@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">计步器</string>
+    <string name="btn_dispose">转为后台</string>
+    <string name="btn_stop">停止服务</string>
+    <string name="btn_delete">删除数据</string>
+    <string name="title">计步器运行中</string>
+    <string name="content_title">正在计步</string>
+    <string name="content_text">点击查看</string>
+    
+
+</resources>
