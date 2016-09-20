@@ -1,0 +1,2 @@
+# WalkingMan
+* A simple pedometer
